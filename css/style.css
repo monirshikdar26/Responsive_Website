@@ -35,3 +35,10 @@
 .navbar-toggler{
     outline: none !important;
 }
+
+/* --------------------------------- banner seciton ---------------------------*/
+#banner{background-image: linear-gradient(to right,#3d3d3d,#808080);
+    color: #fff;
+    padding-top: 5%;
+}
+
